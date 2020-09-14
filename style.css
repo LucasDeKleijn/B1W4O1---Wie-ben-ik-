@@ -1,0 +1,27 @@
+body {
+	background-color: black;
+	margin-left: 560px;
+	margin-right: 560px;
+	color: white;
+	font-family: Calibri;
+	border: 2px solid white;
+}
+.images {
+	float: right;
+	clear: left;
+	clear: bottom;
+	border: 2px solid white;
+	margin: 10px;
+}
+.imagesLeft {
+	float: right;
+	clear: left;
+	clear: right;
+	border: 2px solid white;
+	margin: 10px;
+	margin-top: 40px;
+}
+h1 {
+	margin: 10px;
+	font-size: 50px;
+}
